@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "test_ultrasonic_sensor",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
